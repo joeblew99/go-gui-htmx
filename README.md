@@ -2,10 +2,11 @@
 
 # Must have features :
 
+- web, native. Uses wasm for web.
 
 # Project structure : 
 
-...
+
 
 # References : 
 
